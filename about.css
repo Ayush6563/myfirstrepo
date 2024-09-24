@@ -8,11 +8,12 @@ body{
 	color:white;
 }
 #header{
-	background-image: url("handsome.png");
+	background-image: url("file:///D:/Untitled%20design%20(1).png");
 	background-size:cover;
 	background-position:center;
 	width:100%;
 	height:100vh;
+
 }
 .navbar{
 	padding:10px 10%;
@@ -42,24 +43,16 @@ nav ul  li a:hover{
 	color:red;
 	width:100%;
 }
-.body-text{
-	margin-top:17%;
+#aboutme{
+	text-align:center;
+	aligh-content:center;
+	margin-top:100px;
 	font-size:30px;
-}
-.body-text h1 {
-	font-size:70px;
-	margin-top:20px;
-}
-.body-text h1 span{
 	color:red;
 }
-footer{
-	height:80px;
-	background-color:gray;
-	font-size:25px;
-	align-content:center;
-	text-align:center;
-}
-.footer img{
-	height:30;
+.aboutp{
+	color:white;
+	font-size:20px;
+	margin-left:490px;
+	text-align:left ;
 }
